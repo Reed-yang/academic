@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Flexible Techniques for Differentiable Rendering with 3D Gaussians"
+title:  "PDF: A Probability-Driven Framework for Open World 3D Point Cloud Semantic Segmentation"
 date:   2023-08-28 22:21:59 +00:00
-image: /images/3dgaussian.jpg
+image: /images/PDF.png
 categories: research
-author: "Leo Keselman"
-authors: "<strong>Leonid Keselman</strong>, Martial Hebert"
+author: "Siyuan Yang"
+authors: "Jinfeng Xu, <strong>Siyuan Yang</strong>, Xianzhi Li, Yuan Tang, Yixue Hao, Long Hu, Min Chen"
 venue: "arXiv"
 arxiv: https://arxiv.org/abs/2308.14737
 code: https://github.com/leonidk/fmb-plus
